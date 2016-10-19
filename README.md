@@ -1,14 +1,16 @@
----
+<!---
 title: "Logic Lab"
 type: Lab
 duration: "1:25"
 creator:
     name: Wellington Moreno
     city: Santa Monica
----
+--->
 
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Logic Lab
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+
+# Logic Lab
 
 ## Introduction
 
@@ -17,7 +19,6 @@ creator:
 In this lab, we will practice Computational Thinking by breaking down everyday activities into specific steps.
 
 > ***Note:*** _This Lab is designed to be done independently._
-
 
 ### Why we are doing it
 
@@ -34,6 +35,8 @@ For each exercise, explain in three different level of details, **Low**, **Mediu
 **For example**
 
 This is how to describe **"How to drive a car out of a garage"** in a series of steps:
+
+<!-- Get this in sublime text as car_drive.txt -->
 
 **High Level**
 ```
@@ -74,10 +77,16 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 
 Explain the steps involved in the following
 
+<!-- Get devs to fill in high, medium, and low for typing name -->
+
 #### Basics
 + How do you type your name? `[High, Medium, Low]`
 + How do you turn on and unlock your iPhone `[High, Medium, Low]`
 + How do you make Coffee (or a cup of tea) `[High, Medium, Low]`
+
+<!-- Come back after 10 minutes to check on unlock iPhone and make Coffee -->
+
+<!-- Let him free -->
 
 #### Traveling
 + How do you get to the Airport `[High, Medium]`
@@ -95,6 +104,7 @@ Explain the steps involved in the following
 + How do you decide what to eat `[High, Medium]`
 + How do you decide what to wear `[High, Medium, Low]`
 
+<!-- CFU: Think-pair-share... What was the most eye-opening part of this exercise?  What was the biggest lesson you'll carry through the course?  -->
 
 ### Starter code
 
@@ -117,6 +127,6 @@ You can write your assignment in a plaintext (`.txt`) file, or a Word document -
 
 # Additional Resources
 
-[Computation Thinking by Google](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
+[Computational Thinking by Google](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
 
 [Everyday Algorithms](https://www.cs.duke.edu/courses/summer04/cps001/labs/plab2.html)
