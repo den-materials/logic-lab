@@ -77,7 +77,7 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 
 Explain the steps involved in the following
 
-<!-- Get devs to fill in high, medium, and low for typing name -->
+<!-- Get devs to fill in high, medium, and low for typing name together -->
 
 #### Basics
 + How do you type your name? `[High, Medium, Low]`
@@ -86,7 +86,7 @@ Explain the steps involved in the following
 
 <!-- Come back after 10 minutes to check on unlock iPhone and make Coffee -->
 
-<!-- Let him free -->
+<!-- Let them free -->
 
 #### Traveling
 + How do you get to the Airport `[High, Medium]`
