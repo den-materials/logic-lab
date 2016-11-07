@@ -7,6 +7,7 @@ creator:
     city: Santa Monica
 --->
 
+<!--People FLY through this-- an hour is enough, maybe even less -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
