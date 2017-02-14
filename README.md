@@ -7,7 +7,7 @@ creator:
     city: Santa Monica
 --->
 
-<!--People FLY through this-- an hour is enough, maybe even less -->
+<!--11:40 - 10 minutes -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
@@ -31,7 +31,7 @@ Computational Thinking is what allows you to "Think in Code".
 
 In these exercises, we will be decomposing activities into a simple language called `pseudo-english`.
 
-For each exercise, explain in three different level of details, **Low**, **Medium**, **High**.
+For each exercise, we will explain a solution in three different level of details, **Low**, **Medium**, **High**.
 
 **For example**
 
@@ -74,6 +74,8 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 
 > ***Note:*** Use your judgement to determine how "Low" you want to go.
 
+<!-- 11:50 10 minutes -->
+
 ### Requirements
 
 Explain the steps involved in the following
@@ -85,9 +87,9 @@ Explain the steps involved in the following
 + How do you turn on and unlock your iPhone `[High, Medium, Low]`
 + How do you make Coffee (or a cup of tea) `[High, Medium, Low]`
 
-<!-- Come back after 10 minutes to check on unlock iPhone and make Coffee -->
+<!-- Come back to check on unlock iPhone and make Coffee -->
 
-<!-- Let them free -->
+<!--12:00 Let them free -->
 
 #### Traveling
 + How do you get to the Airport `[High, Medium]`
