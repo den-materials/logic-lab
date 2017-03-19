@@ -19,8 +19,6 @@ creator:
 
 In this lab, we will practice Computational Thinking by breaking down everyday activities into specific steps.
 
-> ***Note:*** _This Lab is designed to be done independently._
-
 ### Why we are doing it
 
 Computational Thinking (CT) is a problem solving process that includes a number of characteristics and dispositions. CT is essential to the development of computer applications, but it can also be used to support problem solving across all disciplines, including the humanities, math, and science. Students who learn CT across the curriculum can begin to see a relationship between academic subjects, as well as between life inside and outside of the classroom.
@@ -78,7 +76,7 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 
 ### Requirements
 
-Explain the steps involved in the following
+Explain the steps involved in the following on your own.
 
 <!-- Get devs to fill in high, medium, and low for typing name together -->
 
@@ -88,6 +86,8 @@ Explain the steps involved in the following
 + How do you make Coffee (or a cup of tea) `[High, Medium, Low]`
 
 <!-- Come back to check on unlock iPhone and make Coffee -->
+
+Now team up with your squad, and explain the steps involved in the remaining activities as a group.
 
 <!--12:00 Let them free -->
 
@@ -126,7 +126,7 @@ You can write your assignment in a plaintext (`.txt`) file, or a Word document -
 #### Math
 + How do you add two numbers `[High, Medium, Low]`
 + How do you determine if a number is Prime `[Medium, Low]`
-+ How do you compute Fibonacci until 14 `[Medium, Low]`
++ How do you compute the Fibonacci sequence until 13 `[Medium, Low]`
 
 # Additional Resources
 
