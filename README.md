@@ -7,6 +7,7 @@ creator:
     city: Santa Monica
 --->
 
+<!--Actually 11:55 -->
 <!--11:40 - 10 minutes -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
@@ -72,6 +73,7 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 
 > ***Note:*** Use your judgement to determine how "Low" you want to go.
 
+<!--Actually 12:04 while describing -->
 <!-- 11:50 10 minutes -->
 
 ### Requirements
@@ -89,6 +91,7 @@ Explain the steps involved in the following on your own.
 
 Now team up with your squad, and explain the steps involved in the remaining activities as a group.
 
+<!--Actually 12:15 -->
 <!--12:00 Let them free -->
 
 #### Traveling
