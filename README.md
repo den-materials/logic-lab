@@ -7,6 +7,7 @@ creator:
     city: Santa Monica
 --->
 
+<!--12:00 WDI4 -->
 <!--Actually 11:55 -->
 <!--11:40 - 10 minutes -->
 
@@ -81,6 +82,7 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 Explain the steps involved in the following on your own.
 
 <!-- Get devs to fill in high, medium, and low for typing name together -->
+<!--WDI4 12:09 turning over for independent work-->
 
 #### Basics
 + How do you type your name? `[High, Medium, Low]`
@@ -91,6 +93,7 @@ Explain the steps involved in the following on your own.
 
 Now team up with your squad, and explain the steps involved in the remaining activities as a group.
 
+<!--12:13 WDI4 moving to squads -->
 <!--Actually 12:15 -->
 <!--12:00 Let them free -->
 
