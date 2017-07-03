@@ -71,7 +71,7 @@ This is how to describe **"How to drive a car out of a garage"** in a series of 
 ...
 ```
 
-> ***Note:*** Use your judgement to determine how "Low" you want to go.
+> ***Note:*** Use your judgment to determine how "Low" you want to go.
 
 <!--Actually 12:04 while describing -->
 <!-- 11:50 10 minutes -->
